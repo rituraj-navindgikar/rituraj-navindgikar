@@ -1,24 +1,21 @@
 # 💫 About Me
 
 🌌 **Currently Working On**  
-- Enhancing RTAB-SLAM with ZED Mini for real-time localization and mapping.  
-- Exploring robotics and SLAM technologies through hands-on projects.  
+- Enhancing RTAB-SLAM with ZED Mini for real-time localization and mapping Northeastern's Underground Tunnels
 
 🤝 **Looking to Collaborate On**  
-- Robotics, path planning, and SLAM for autonomous systems.  
-- Makerspace workshops and hands-on exploration initiatives.  
+- Navigation Stack for autonomous systems
 
 💛 **Looking for Help With**  
-- Advancing my ROS2 skills and integration with hardware like SPOT.  
-- Learning visual-inertial SLAM and advanced computer vision techniques.  
+- Advancing my ROS2 skills and integration with hardware of Boston Dynamics SPOT 
+- Learning visual-inertial SLAM and advanced computer vision techniques
 
 🌱 **Currently Learning**  
-- Robotics sensing and navigation through coursework at Northeastern.  
-- Makerspace tools to empower student innovation.  
+- Robotics sensing and navigation through coursework at Northeastern University, Boston
 
 💬 **Ask Me About**  
-- SLAM and path planning algorithms.  
-- Collaborating in interdisciplinary teams and fostering creativity.  
+- SLAM and path planning algorithms
+- Collaborating in teams and fostering creativity
 
 
 ## 🌐 Socials:
