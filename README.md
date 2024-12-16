@@ -1,7 +1,7 @@
 # 💫 About Me
 
 🌌 **Currently Working On**  
-- Working RTAB-SLAM with ZED Mini for real-time localization and mapping Northeastern's Underground Tunnels
+- Working on RTAB-SLAM with ZED Mini for real-time localization and mapping Northeastern's Underground Tunnels
 
 🤝 **Looking to Collaborate On**  
 - Navigation Stack for autonomous systems
