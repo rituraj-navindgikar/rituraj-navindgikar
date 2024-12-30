@@ -1,21 +1,25 @@
 # 💫 About Me
 
+🌱 **Currently Learning**  
+- Advanced reinforcement learning techniques for real-world applications
+- Simulations in Gazebo (Simulation works great I can simulate any sensors + actuators combo I want)
+- Trying to apply physics in simulation
+
 🌌 **Currently Working On**  
-- Working on RTAB-SLAM with ZED Mini for real-time localization and mapping Northeastern's Underground Tunnels
+- Developing reinforcement learning-based path optimization algorithms for dynamic obstacle avoidance in autonomous systems
+- Leveraging OpenCV and deep learning frameworks to enhance real-time perception systems for robotics
 
 🤝 **Looking to Collaborate On**  
 - Navigation Stack for autonomous systems
+- Applying kinematics and dynamics in simulation
 
 💛 **Looking for Help With**  
 - Advancing my ROS2 skills and integration with hardware of Boston Dynamics SPOT 
-- Learning visual-inertial SLAM and advanced computer vision techniques
-
-🌱 **Currently Learning**  
-- Robotics sensing and navigation through coursework at Northeastern University, Boston
+- Learning visual-inertial SLAM and advanced computer vision techniques using deep learning
 
 💬 **Ask Me About**  
-- SLAM and path planning algorithms
-- Collaborating in teams and fostering creativity
+- SLAM frameworks, hybrid path planning, and reinforcement learning applications
+- Using OpenCV and deep learning for object detection and image segmentation
 
 
 ## 🌐 Socials:
