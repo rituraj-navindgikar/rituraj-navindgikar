@@ -31,6 +31,7 @@
 
 ---
 
-## Star Gazers ✨
-![Star Gazers](https://profile-counter.glitch.me/rituraj-navindgikar/count.svg)
+## Star Gazers Arena✨
+[![Visits Badge](https://badges.pufler.dev/visits/rituraj-navindgikar/rituraj-navindgikar)](https://badges.pufler.dev)
 
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/rituraj-navindgikar)](https://badges.pufler.dev)
