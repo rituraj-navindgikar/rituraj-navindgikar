@@ -1,4 +1,4 @@
-# Hi 🐛, I'm Rituraj Navindgikar 
+# Hey, I'm Rituraj Navindgikar 
 🤝 Network with me
 - [🌐 LinkedIn](https://www.linkedin.com/in/riturajnavindgikar/)
 - [✉️ navindgikar.r@northeastern.edu](mailto:navindgikar.r@northeastern.edu)
