@@ -924,6 +924,10 @@ html {
 .item {
     padding: 0 20px;
     transition: transform 0.3s ease-in-out;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center content */
+    text-align: center;
 }
 
 /* Hover Effect */
@@ -935,12 +939,26 @@ html {
     position: relative;
     overflow: hidden;
     border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; /* Center the image */
+    width: 100%;
+    height: 100%;
 }
 
 /* Image Styles */
-.item-img img {
+.item-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     width: 100%;
+}
+
+.item-img img {
+    width: auto;
     height: 500px; /* Consistent size */
+    max-width: 100%; /* Prevent overflow */
     object-fit: cover;
     margin-bottom: 20px;
     border-radius: 10px;
@@ -956,13 +974,15 @@ html {
 .event-label {
     position: absolute;
     bottom: 10px;
-    left: 10px;
+    left: 50%;
+    transform: translateX(-50%);
     background: rgba(0, 0, 0, 0.6);
     color: white;
     padding: 10px 15px;
     font-size: 1.5rem;
     font-weight: bold;
     border-radius: 5px;
+    text-align: center;
 }
 
 /* Responsive */
