@@ -1,0 +1,106 @@
+/* General Styles */
+body {
+    font-family: 'Georgia', serif;
+    margin: 0;
+    padding: 0;
+    background: #e3f2fd;
+    color: #333;
+    text-align: center;
+}
+
+/* Main Section */
+.profile-card {
+    background: url('image.png') no-repeat center center/cover;
+    color: black;
+    text-align: center;
+    padding: 80px 20px;
+    border-radius: 12px;
+    margin: 20px auto;
+    width: 90%;
+    max-width: 800px;
+    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.2);
+    opacity: 0.9;
+}
+
+.profile-card h2 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.profile-card .btn {
+    display: inline-block;
+    text-decoration: none;
+    background: #1976D2;
+    color: white;
+    padding: 15px 25px;
+    border-radius: 8px;
+    font-size: 1.2rem;
+    transition: background 0.3s, transform 0.2s;
+}
+
+.profile-card .btn:hover {
+    background: #0D47A1;
+    transform: scale(1.05);
+}
+
+/* Project Showcase */
+.projects {
+    padding: 30px;
+}
+
+/* Grid Layout for Projects */
+.project-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    justify-content: center;
+    max-width: 1000px;
+    margin: auto;
+}
+
+/* Individual Project Cards */
+.project-card {
+    background: white;
+    border-radius: 12px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.project-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.3);
+}
+
+.project-card img {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.project-card h3 {
+    color: #1565C0;
+}
+
+/* Resources Section */
+.resources {
+    background: #bbdefb;
+    padding: 30px;
+    border-radius: 12px;
+    width: 90%;
+    max-width: 800px;
+    margin: 20px auto;
+    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Contact Section */
+.section-card {
+    padding: 30px;
+    background: white;
+    border-radius: 12px;
+    width: 90%;
+    max-width: 800px;
+    margin: 20px auto;
+    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.2);
+}
