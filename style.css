@@ -93,7 +93,7 @@ html {
 }
 
 .hero-title {
-    font-size: 6rem;
+    font-size: 5rem;
     font-weight: bold;
     animation: fadeInUp 1.2s ease-in-out;
     color: #1a1a1a;
@@ -190,7 +190,7 @@ html {
 }
 
 .about-content h2 {
-    font-size: 6rem;
+    font-size: 5rem;
     color: #1c1c1c;
     margin-bottom: 20px;
 }
@@ -302,6 +302,7 @@ html {
 
 
 
+
 /* Why Choose Me Section */
 .why-choose-section {
     width: 100%;
@@ -314,43 +315,42 @@ html {
 
 .why-choose-container {
     display: flex;
-    flex-wrap: wrap;
-    width: 90%;
-    max-width: 1100px;
+    flex-direction: column;
+    width: 95%; /* Increased width for more spread */
+    max-width: 1400px; /* Allow more content spread */
     align-items: center;
-    justify-content: space-between;
+    text-align: center;
 }
 
 /* Title Section */
 .why-choose-text {
-    flex: 1;
-    max-width: 400px;
-    text-align: left;
+    width: 100%;
+    margin-bottom: 40px;
+    text-align: center;
 }
 
 .why-choose-text h2 {
-    font-size: 6rem;
+    font-size: 5rem;
     font-weight: bold;
 }
 
 /* Feature Cards */
 .why-choose-items {
-    flex: 2;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 30px;
-    justify-content: center;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); /* Increased min width */
+    gap: 40px;
+    width: 100%;
+    max-width: 1400px;
 }
 
 .why-item {
-    flex: 1;
-    max-width: 350px;
     background: white;
-    padding: 20px;
+    padding: 30px;
     border-radius: 10px;
     text-align: center;
     box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s, box-shadow 0.3s;
+    width: 100%;
 }
 
 /* Hover Effect */
@@ -360,31 +360,30 @@ html {
 }
 
 .why-title {
-    font-size: 1.6rem;
+    font-size: 1.8rem;
     font-weight: bold;
     margin-bottom: 10px;
 }
 
 .why-text {
-    font-size: 1rem;
+    font-size: 1.2rem;
     color: #333;
 }
 
 /* Responsive */
 @media (max-width: 992px) {
-    .why-choose-container {
-        flex-direction: column;
-        text-align: center;
+    .why-choose-text h2 {
+        font-size: 4rem;
     }
+}
 
-    .why-choose-text {
-        text-align: center;
-        margin-bottom: 30px;
+@media (max-width: 768px) {
+    .why-choose-text h2 {
+        font-size: 3rem;
     }
 
     .why-choose-items {
-        flex-direction: column;
-        align-items: center;
+        grid-template-columns: 1fr;
     }
 }
 
@@ -511,7 +510,7 @@ html {
 
 /* Title */
 .work-title {
-    font-size: 6rem;
+    font-size: 5rem;
     font-weight: bold;
     color: #1a1a1a;
     margin-bottom: 50px;
@@ -643,7 +642,7 @@ html {
 
 /* Title */
 .title-wrapper .mbr-section-title {
-    font-size: 6rem;
+    font-size: 5rem;
     font-weight: bold;
     color: #000000;
     margin-bottom: 48px;
@@ -777,7 +776,7 @@ html {
 
 /* Title */
 .faq-title {
-    font-size: 6rem;
+    font-size: 5rem;
     font-weight: bold;
     color: #1a1a1a;
     margin-bottom: 40px;
@@ -862,7 +861,7 @@ html {
 
 /* Title */
 .events-title {
-    font-size: 6rem;
+    font-size: 5rem;
     font-weight: bold;
     color: #1a1a1a;
     margin-bottom: 50px;
