@@ -6,7 +6,7 @@
 ## 💫 About Me
 
 🌱 **Currently Learning**  
-- Advanced reinforcement learning techniques for real-world applications
+- Advanced reinforcement learning techniques for navigation
 - Simulations in Gazebo (Simulation works great I can simulate any sensors + actuators combo I want)
 - Trying to apply physics in simulation
 
