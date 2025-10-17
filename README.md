@@ -6,20 +6,19 @@
 ## 💫 About Me
 
 🌱 **Currently Learning**  
-- Advanced reinforcement learning techniques for navigation
-- Simulations in Gazebo (Simulation works great I can simulate any sensors + actuators combo I want)
+- Advanced SLAM techniques using deep learning and neural networks
+- Simulations in Isaac Sim
 - Trying to apply physics in simulation
 
 🌌 **Currently Working On**  
-- Developing reinforcement learning-based path optimization algorithms for dynamic obstacle avoidance in autonomous systems
+- Developing my own DL based SLAM
 - Leveraging OpenCV and deep learning frameworks to enhance real-time perception systems for robotics
 
 🤝 **Looking to Collaborate On**  
-- Navigation Stack for autonomous systems
-- Applying kinematics and dynamics in simulation
+- Autonomous exploration systems
 
 💛 **Looking for Help With**  
-- Advancing my ROS2 skills and integration with hardware of Boston Dynamics SPOT 
+- Advancing my ROS2 skills and integration with jetson boards
 - Learning visual-inertial SLAM and advanced computer vision techniques using deep learning
 
 💬 **Ask Me About**  
